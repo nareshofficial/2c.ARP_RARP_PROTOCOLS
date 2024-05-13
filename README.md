@@ -1,10 +1,8 @@
 # EX.NO:2c                SIMULATING ARP /RARP PROTOCOLS
-
-## AIM
-To write a python program for simulating ARP protocols using TCP.
 ## NAME: KARTHIKEYAN R
 ## REG.NO:212222240046
-
+## AIM
+To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
 ### Client:
 1. Start the program</br>
